@@ -1,2 +1,7 @@
-Just do hexview <file>. 
-I may add more features, but probably not. By all means email me if you like it or hate it: joshualockhart ( AT ) gmail ( DOT ) com
+Just do hexview <file>. It'll scroll by pretty quickly, so pipe the output into less, like so:
+
+$ hexview mybinaryfile | less
+
+I may add more features, but probably not, I have Uni work to do. 
+
+Email me if you like it or hate it: joshualockhart ( AT ) gmail ( DOT ) com.
